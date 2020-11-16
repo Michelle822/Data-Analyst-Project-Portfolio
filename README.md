@@ -25,5 +25,5 @@ The dataset that I had worked for wrangling (and analyzing and visualizing) is t
 
 ## Project 5 - Communicate data findings - Pisa dataset
 The dataset that I used for this project was the PISA 2012 dataset. PISA, in particular, is a "survey of students' skills and knowledge as they approach the end of compulsory education. It is not a conventional school test. Rather than examining how well students have learned the school curriculum, it looks at how well prepared they are for life beyond school" (Udacity, 2019).
-Within this datset we can find information for about 510,000 students. For each of these students, there are 636 answers which we can see in the columns. Of these, I decided to wrangle this dataset into a more manageable dataset of 15167 students with 19 columns.
+Within this datset we can find information for about 510,000 students. For each of these students, there are 636 answers which we can see in the columns. Of these, I decided to wrangle this dataset into a more manageable dataset of 15167 students with 19 columns.  
 The project objective is not expected to explore all of the variables in the dataset! But focus on only exploration on about 10-15 of them.
